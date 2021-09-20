@@ -1,2 +1,3 @@
 # pf_lab2
-2nd Lab
+
+This lab is about basics of programming
